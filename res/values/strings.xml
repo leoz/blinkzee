@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlinkZee</string>
+
+	<string name="header_name">Name</string>
+	<string name="header_data">Date/Type/Size</string>
+</resources>
